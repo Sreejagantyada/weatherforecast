@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Nunito",sans-serif;
+     background-image: url(https://media.nationalgeographic.org/assets/photos/000/263/26383.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size:cover;
+}
+.input{
+    text-align: center;
+    margin: 100px 0;
+}
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background-color: #e7e7e7;
+    font-family: sans-serif;
+    font-weight: bold;
+font-size: 20px;
+border: none;
+border-radius: 2px;
+padding: 10px 10px;
+
+}
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background-color: #e7e7e7;
+    font-family: sans-serif;
+    font-weight: bold;
+font-size: 20px;
+border: orangered;
+border-radius: 2px;
+
+}
+.display{
+    color:white;
+    border-color: rgb(235, 232, 229);
+    font-size:larger;
+    font-weight:bolder;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-style:groove;
+    border-width: 5px;
+    padding: 50px 0px 100px 0px;
+    border-width: medium;
+    justify-content: center;
+    border-inline-end-style: solid;
+    padding-bottom:200px;
+    
+}
